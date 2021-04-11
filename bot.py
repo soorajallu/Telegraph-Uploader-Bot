@@ -23,7 +23,7 @@ Hello {}, I' am small media or file to telegra.ph link uploader bot.
 - Then I will download it
 - I will then upload it to the telegra.ph link
 
-Made by @FayasNoushad
+Made by @alluaddict
 """
 
 # start command
